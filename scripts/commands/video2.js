@@ -65,7 +65,7 @@ async function linkanh(choice) {
     "7": "/video/baby",
     "8": "/video/anime",
     "9": "/video/humaiyun",
-    "10": "/video/freefire",
+    "10": "/video/funny",
     "11": "/video/horny",
     "12": "/video/hot",
     "13": "/video/item"
