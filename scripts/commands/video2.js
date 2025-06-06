@@ -1,5 +1,5 @@
 module.exports.config = {
-  name: "video2",
+  name: "video",
   version: "0.0.3",
   permission: 0,
   prefix: 'awto',
@@ -65,7 +65,7 @@ async function linkanh(choice) {
     "7": "/video/baby",
     "8": "/video/anime",
     "9": "/video/humaiyun",
-    "10": "/video/islam",
+    "10": "/video/freefire",
     "11": "/video/horny",
     "12": "/video/hot",
     "13": "/video/item"
