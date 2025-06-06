@@ -105,8 +105,8 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("-আমি কেন চলে যাবো তোমার ভালো না লাগলে তুমি চলে যাও-🙄😒 -আমি যাব না..!😏😏", threadID);
    };
 
-   if ((event.body.toLowerCase() == "😘") || (event.body.toLowerCase() == "💋")) {
-     return api.sendMessage("-আগে brush করে আই তারপর কিস দিস-😼😾🔪", threadID);
+   if ((event.body.toLowerCase() == "eid mubarak") || (event.body.toLowerCase() == "EID MUBARAK")) {
+     return api.sendMessage("一𝐄𝐈𝐃 𝐌𝐔𝐁𝐀𝐑𝐀𝐊__😊💝", threadID);
    };
 
    if ((event.body.toLowerCase() == "biye") || (event.body.toLowerCase() == "বিয়ে মানে কি") ||
