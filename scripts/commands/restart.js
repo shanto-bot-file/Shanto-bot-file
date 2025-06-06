@@ -4,7 +4,7 @@ module.exports.config = {
 	permission: 2,
 	credits: "ryuko",
 	prefix: false,
-	description: "restart bot system",
+	description: "rest bot system",
 	category: "admin",
 	usages: "",
 	cooldowns: 0,
