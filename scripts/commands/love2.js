@@ -75,7 +75,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
       (event.body.toLowerCase() == "কেমন আছো সবাই") ||
       (event.body.toLowerCase() == "Kmon aso sobai")||
 (event.body.toLowerCase() == "Kmn aso sobai")) {
-     return api.sendMessage("-আলহামদুলিল্লাহ-🌺-আমি ভালো আছি তুমি কেমন আছো-💝🌻", threadID);
+     return api.sendMessage("-আলহামদুলিল্লাহ-🌺-_আমি ভালো আছি তুমি কেমন আছো-💝🌻", threadID);
    };
 
    if ((event.body.toLowerCase() == "বট চুপ") || (event.body.toLowerCase() == "bot tham") ||
