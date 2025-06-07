@@ -48,13 +48,13 @@ const fs = global.nodemodule["fs-extra"];
 "https://i.imgur.com/UxsT4AA.mp4",
 "https://i.imgur.com/UxsT4AA.mp4",
 "https://i.imgur.com/UxsT4AA.mp4",
-"https://i.imgur.com/UxsT4AA.mp4",
-"https://i.imgur.com/UxsT4AA.mp4",
-"https://i.imgur.com/UxsT4AA.mp4",
-"https://i.imgur.com/UxsT4AA.mp4",
-"https://i.imgur.com/UxsT4AA.mp4",
-"https://i.imgur.com/UxsT4AA.mp4",
-"https://i.imgur.com/UxsT4AA.mp4",
+"https://postimg.cc/k2VjqMFz",
+"https://postimg.cc/k2VjqMFz",
+"https://postimg.cc/k2VjqMFz",
+"https://postimg.cc/k2VjqMFz",
+"https://postimg.cc/k2VjqMFz",
+"https://postimg.cc/k2VjqMFz",
+"https://postimg.cc/k2VjqMFz",
 
 
   
