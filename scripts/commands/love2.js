@@ -29,7 +29,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
 
     if ((event.body.toLowerCase() == "bot jamay dau") || (event.body.toLowerCase() == "Bot jamay dau") ||
 (event.body.toLowerCase() == "বট জামাই দাও")) {
-     return api.sendMessage("আমার বস ফারহান কে চোখে দেখো না নাকি__😒🥱", threadID);
+     return api.sendMessage("আমার বস ফারহান কে চোখে দেখো না নাকি_😒🥱", threadID);
    };
    
     if ((event.body.toLowerCase() == "I love you bot") || (event.body.toLowerCase() == "Bot i love you")) {
